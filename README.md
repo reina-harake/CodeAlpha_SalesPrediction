@@ -1,5 +1,5 @@
 # CodeAlpha_SalesPrediction
-cat > ~/CodeAlpha_SalesPrediction/README.md << 'EOF'
+
 # Sales Prediction
 
 **CodeAlpha Data Science Internship — Task 4**
