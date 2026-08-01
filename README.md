@@ -1,5 +1,3 @@
-# CodeAlpha_SalesPrediction
-
 # Sales Prediction
 
 **CodeAlpha Data Science Internship — Task 4**
