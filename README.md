@@ -1,6 +1,6 @@
 # Sales Prediction
 
-**CodeAlpha Data Science Internship — Task 4**
+**CodeAlpha Data Science Internship**
 
 A regression model that predicts sales based on advertising spend across TV, Radio, and Newspaper channels, with analysis of how channel combinations affect sales outcomes.
 
